@@ -1,2 +1,2 @@
 # PyBer_Analysis
-PyBer Company performance analysis using MatplotLib
+PyBer Company performance analysis using Matplotlib
